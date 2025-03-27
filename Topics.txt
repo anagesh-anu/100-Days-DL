@@ -1,0 +1,40 @@
+DL vs ML:
+
+1. Data Dependency
+2. Hardware dependency
+3. Training Time
+4. Feature Selection
+5. Interpretability
+
+
+
+ANN
+- Perceptron
+	- What is perceptron
+	- perceptron trick and transformation
+	- Perceptron loss function
+	- Perceptron problem, (does not work with non-linear data)
+
+- MLP (Multi Layer Perceptron)
+- Back propagation
+- MLP memorization
+- Vanishing Gradient descent and how to tackle.
+- How to improve Neural networks performance.
+- Check the images in the word document.
+- Early stopping in neural networks and Keras hyperparameters. 
+- What is transfer learning in DL.
+- What is representation learning in DL.
+- Feature Scaling in DL.
+- Dropout layers in DL
+- Activation functions in DL.
+- 
+	
+
+CNN
+
+RNN
+
+GAN
+
+Object detection
+
